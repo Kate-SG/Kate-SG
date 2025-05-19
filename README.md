@@ -35,6 +35,5 @@ I have extensive experience in developing scalable web and mobile applications, 
 ## 📫 Connect with Me
 Feel free to reach out if you'd like to discuss projects, collaborate, or just say hi!
 
-- [LinkedIn](https://www.linkedin.com/in/kateryna-krasnova-95bb61246/)
+
 - [Upwork](https://www.upwork.com/freelancers/~013e3b7779d4e62e91)
-- [Email](mailto:kateryna.krasnova@sysgears.com)
